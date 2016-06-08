@@ -1,0 +1,12 @@
+[cmdline]
+0=10
+1=q
+2=Quit
+3=
+
+[Dir Hist New Right Panel]
+0=/home/grid/testbed/tb109
+
+[Dir Hist New Left Panel]
+0=/home/grid/testbed
+1=/home/grid/testbed/tb109
